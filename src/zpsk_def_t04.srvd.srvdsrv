@@ -1,0 +1,4 @@
+@EndUserText.label: 'my First Service Def 4Currency'
+define service ZPSK_DEF_T04 {
+  expose I_Currency as Currency;
+}
