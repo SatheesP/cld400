@@ -1,3 +1,4 @@
+"! <p>My first console application in ABAP cloud platform</p>
 CLASS zpsk_console_01 DEFINITION
   PUBLIC
   FINAL
